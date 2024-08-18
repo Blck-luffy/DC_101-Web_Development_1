@@ -1,0 +1,8 @@
+Name: Villanueva, Chrizel Mae L.
+CYS: BSCS 2E
+Subject: DC 101 - Web Development 1
+Instructor: Engr. John Eugene D. Fortunado
+Age: 19
+Address: 1032, Purok 7c Tangway Loob Lipa City
+Contact Number: 09563904098
+Description: A Computer Science Student of KLL taking the Course Subject of DC 101 for the A.Y. 2024-2025
